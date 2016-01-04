@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
     <data>
-<!--test1111-->
+<!--test222222-->
 		 <record model="ir.ui.view" id="company_code">
             <field name="name">company_code</field>
             <field name="model">res.company</field>
